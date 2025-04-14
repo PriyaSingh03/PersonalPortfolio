@@ -47,3 +47,4 @@ coverage/
 
 # Optional: Ignore ChatGPT-generated files or docs
 ChatGPT Image Mar*
+node_modules

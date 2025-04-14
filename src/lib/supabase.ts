@@ -12,7 +12,6 @@ const supabaseKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
 
 // Create the Supabase client
 export const supabase = createClient(supabaseUrl, supabaseKey);
-
 // Function to check if Supabase connection is working
 export const checkSupabaseConnection = async () => {
   try {

@@ -21,15 +21,7 @@ const Footer = () => {
             PRIYA SINGH
           </motion.div>
           
-          <motion.div
-            initial={{ opacity: 0, y: 10 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.5, delay: 0.2 }}  
-            className="text-center text-gray-400 mb-8"
-          >
-            PORTFOLIO 2024
-          </motion.div>
+          
 
           <motion.div 
             initial={{ opacity: 0, y: 10 }}
