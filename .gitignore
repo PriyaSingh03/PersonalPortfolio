@@ -1,6 +1,9 @@
 # Node modules
 node_modules/
-
+node_modules/
+.env
+bun.lockb
+dist/
 # Bun lockfile (if you're not committing it)
 bun.lockb
 
